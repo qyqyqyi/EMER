@@ -1,0 +1,6 @@
+# 设置Jekyll主题为Cayman
+theme: jekyll-theme-cayman
+# 可选：添加站点标题（显示在页面顶部）
+title: EMER Dataset
+# 可选：添加站点描述
+description: Eye-behavior-aided Multimodal Emotion Recognition Dataset
