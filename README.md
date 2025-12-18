@@ -187,7 +187,7 @@ This table displays multimodal sample information for 7 basic emotions in the EM
 
 This database is publicly available and free for **professors and research scientists affiliated to a university**.  For students interested in accessing the dataset, please note that the application requires formal endorsement by a faculty member from your institution.
 
-Permission to use (but not reproduce or distribute) the MAFW database is granted only if the following steps are properly followed:
+Permission to use (but not reproduce or distribute) the EMER database is granted only if the following steps are properly followed:
 1.  Download the [EMER-academics -final.pdf](/academics/emer-academics-final.pdf) document, which serves as the End-User License Agreement (EULA).
 2.  Carefully review the terms and conditions to confirm acceptance.  The required information at the end of the document must be completed and signed—**for student applicants, this signature must be from a professor at their affiliated university** to validate the request.
 3.  Send the fully completed and signed document to: 1202411179@cug.edu.cn.
@@ -215,7 +215,7 @@ This section has files that assign labels (metadata/categorizations) to the data
 <image src="imgs/labels.png" height="130" />
 
 1. EMER_label.xlsx: Excel file with comprehensive emotion labels (3-class/7-class discrete labels, valence/arousal scores, FER intensity scores).
-2. emer_set.txt: 
+2. emer_set.txt: A text file defining the dataset split.
 
 
 
