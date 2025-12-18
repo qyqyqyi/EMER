@@ -14,20 +14,8 @@
 ### EMER Dataset Sample Showcase
 This table displays multimodal sample information for 7 basic emotions in the EMER dataset, including facial expression video clips, eye movement sequence visualizations, dual labels:
 
-<style>
-  /* 为表格设置通用样式，让所有单元格内容居中 */
-  table {
-    border-collapse: collapse; /* 合并边框，替代cellspacing="0" */
-    margin: 0 auto; /* 可选：让整个表格在页面中水平居中 */
-  }
-  th, td {
-    border: 1px solid #000;
-    padding: 5px;
-    text-align: center; /* 水平居中 */
-    vertical-align: middle; /* 垂直居中 */
-  }
-</style>
-<table>
+
+<table id="tfhover" class="tftable" border="1">
   <thead>
     <tr>
       <th>Facial Expression Video</th>
