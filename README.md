@@ -230,8 +230,8 @@ The source code of our proposed EMERT model can be downloaded in [https://github
 
 Please contact us for any questions about EMER.
 <table id="tfhover" class="tftable" border="1">
-<tr><td width="20%">Yuanyuan Liu</td><td width="65%">Associate Professor, China University of Geosciences</td><td width="15%"><a href="mailto:liuyy@cug.edu.cn">liuyy@cug.edu.cn</a></td></tr>
-<tr><td>Yuanyuan Liu</td><td>Master, China University of Geosciences</td><td><a href="mailto:liukejun@cug.edu.cn">liukejun@cug.edu.cn</a></td></tr>
+<tr><td width="20%">Yuanyuan Liu</td><td width="65%">Professor, China University of Geosciences</td><td width="15%"><a href="mailto:liuyy@cug.edu.cn">liuyy@cug.edu.cn</a></td></tr>
+<tr><td>Kejun Liu</td><td>Master, China University of Geosciences</td><td><a href="mailto:liukejun@cug.edu.cn">liukejun@cug.edu.cn</a></td></tr>
 <tr><td>Ying Qian</td><td>Master, China University of Geosciences</td><td><a href="mailto:1202411179@cug.edu.cn">1202411179@cug.edu.cn</a></td></tr>
 </table>
 
