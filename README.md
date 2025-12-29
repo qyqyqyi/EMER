@@ -197,7 +197,8 @@ Permission to use (but not reproduce or distribute) the EMER database is granted
 
 ## Citation
 Please cite our paper if you find our work useful for your research:
-Kejun Liu, Yuanyuan Liu*, Lin Wei, Z Chen, etc. Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors. IEEE Transactions on Multimedia, 2025.
+1. Kejun Liu, Yuanyuan Liu*, Lin Wei, Chang Tang, Yibing Zhan and Zijing Chen, Zhe Chen. Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors. IEEE Transactions on Multimedia, 2025.
+2. Yuanyuan Liu, Lin Wei, Kejun Liu, Zijing Chen, Zhe Chen*, Chang Tang, Jingying Chen and Shiguang Shan*. Leveraging Eye Movement for Instructing Robust Video-based Facial Expression Recognition. IEEE Transactions on Affective Computing, 2025.
 
 ## Content Preview
 
